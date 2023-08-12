@@ -1,11 +1,5 @@
 <template>
     <div>
-        HomePage
+        Homepage
     </div>
 </template>
-
-<script setup>
-
-</script>
-
-<style scoped></style>
